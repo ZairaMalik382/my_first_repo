@@ -2,7 +2,9 @@
 
 This is my first GitHub repository.
 
-I created it using Git Bash for my assignment. 
+I created it using Git Bash for my assignment.
 
 This is my first IDS assignment.
+
+yay!
 
