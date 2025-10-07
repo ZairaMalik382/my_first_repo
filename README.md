@@ -8,5 +8,9 @@ This is my first IDS assignment.
 
 yay!
 
+ HEAD
 I am editing this in main branch.
+
+I am editing readme in conflict branch. 
+ conflict-branch
 
